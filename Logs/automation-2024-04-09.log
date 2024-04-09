@@ -1,66 +1,56 @@
-11:14:23.174 [main] INFO  factory.BaseClass - Capture the error message
-11:14:41.283 [main] INFO  factory.BaseClass - Close the browser
-11:14:41.284 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:14:41.943 [main] INFO  factory.BaseClass - ============Scenario started============
-11:14:41.944 [main] INFO  factory.BaseClass - Launch the browser
-11:14:45.315 [main] INFO  factory.BaseClass - Close the browser
-11:14:45.315 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:14:45.530 [main] INFO  factory.BaseClass - ============Scenario started============
-11:14:45.531 [main] INFO  factory.BaseClass - Launch the browser
-11:14:48.365 [main] INFO  factory.BaseClass - Close the browser
-11:14:48.365 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:14:48.548 [main] INFO  factory.BaseClass - ============Scenario started============
-11:14:48.548 [main] INFO  factory.BaseClass - Launch the browser
-11:14:50.513 [main] INFO  factory.BaseClass - Close the browser
-11:14:50.513 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:14:50.610 [main] INFO  factory.BaseClass - ============Scenario started============
-11:14:50.610 [main] INFO  factory.BaseClass - Launch the browser
-11:14:52.584 [main] INFO  factory.BaseClass - Close the browser
-11:14:52.584 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:14:52.740 [main] INFO  factory.BaseClass - ============Scenario started============
-11:14:52.740 [main] INFO  factory.BaseClass - Launch the browser
-11:14:54.862 [main] INFO  factory.BaseClass - Close the browser
-11:14:54.862 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:14:54.987 [main] INFO  factory.BaseClass - ============Scenario started============
-11:14:54.987 [main] INFO  factory.BaseClass - Launch the browser
-11:14:56.795 [main] INFO  factory.BaseClass - Close the browser
-11:14:56.795 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:14:56.942 [main] INFO  factory.BaseClass - ============Scenario started============
-11:14:56.943 [main] INFO  factory.BaseClass - Launch the browser
-11:14:58.797 [main] INFO  factory.BaseClass - Close the browser
-11:14:58.798 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:14:59.011 [main] INFO  factory.BaseClass - ============Scenario started============
-11:14:59.011 [main] INFO  factory.BaseClass - Launch the browser
-11:15:01.485 [main] INFO  factory.BaseClass - Close the browser
-11:15:01.486 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:15:01.637 [main] INFO  factory.BaseClass - ============Scenario started============
-11:15:01.637 [main] INFO  factory.BaseClass - Launch the browser
-11:15:03.755 [main] INFO  factory.BaseClass - Close the browser
-11:15:03.756 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:15:03.864 [main] INFO  factory.BaseClass - ============Scenario started============
-11:15:03.864 [main] INFO  factory.BaseClass - Launch the browser
-11:15:05.720 [main] INFO  factory.BaseClass - Close the browser
-11:15:05.721 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:15:05.849 [main] INFO  factory.BaseClass - ============Scenario started============
-11:15:05.849 [main] INFO  factory.BaseClass - Launch the browser
-11:15:07.950 [main] INFO  factory.BaseClass - Close the browser
-11:15:07.950 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:15:08.073 [main] INFO  factory.BaseClass - ============Scenario started============
-11:15:08.073 [main] INFO  factory.BaseClass - Launch the browser
-11:15:10.270 [main] INFO  factory.BaseClass - Close the browser
-11:15:10.270 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:15:10.417 [main] INFO  factory.BaseClass - ============Scenario started============
-11:15:10.417 [main] INFO  factory.BaseClass - Launch the browser
-11:15:12.595 [main] INFO  factory.BaseClass - Close the browser
-11:15:12.596 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:15:12.715 [main] INFO  factory.BaseClass - ============Scenario started============
-11:15:12.715 [main] INFO  factory.BaseClass - Launch the browser
-11:15:14.643 [main] INFO  factory.BaseClass - Close the browser
-11:15:14.643 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:15:14.768 [main] INFO  factory.BaseClass - ============Scenario started============
-11:15:14.768 [main] INFO  factory.BaseClass - Launch the browser
-11:15:17.079 [main] INFO  factory.BaseClass - Close the browser
-11:15:17.079 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:15:17.220 [main] INFO  factory.BaseClass - ============Scenario started============
-11:15:17.220 [main] INFO  factory.BaseClass - Launch the browser
-11:15:19.389 [main] INFO  factory.BaseClass - Close the browser
+11:43:26.347 [main] INFO  factory.BaseClass - Able to see honda upcoming bikes under 4 lakhs
+11:43:26.583 [main] INFO  factory.BaseClass - Verify the display of the honda bike prices under 4 lakhs
+11:43:27.994 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+11:43:27.995 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+11:43:28.104 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+11:43:28.111 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+11:43:28.116 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+11:43:28.125 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+11:43:28.126 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+11:43:28.126 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+11:43:28.128 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:43:28.154 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+11:43:28.156 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+11:43:28.158 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+11:43:28.158 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+11:43:28.159 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+11:43:28.160 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+11:43:28.160 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+11:43:28.161 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:43:28.338 [main] INFO  factory.BaseClass - Close the browser
+11:43:28.338 [main] INFO  factory.BaseClass - ============Scenario Ended============
+11:43:30.731 [main] INFO  factory.BaseClass - ============Scenario started============
+11:43:30.731 [main] INFO  factory.BaseClass - Launch the browser
+11:43:43.223 [main] INFO  factory.BaseClass - User is on the used cars page
+11:43:47.610 [main] INFO  factory.BaseClass - Click on Read more option
+11:43:47.821 [main] INFO  factory.BaseClass - Display the popular models in chennai
+11:43:47.889 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+11:43:47.889 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+11:43:47.890 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+11:43:47.891 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+11:43:47.891 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+11:43:47.892 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+11:43:47.892 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+11:43:47.892 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+11:43:47.893 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:43:47.893 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+11:43:47.894 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+11:43:47.895 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+11:43:47.895 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+11:43:47.895 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+11:43:47.895 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+11:43:47.896 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+11:43:47.897 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:43:48.030 [main] INFO  factory.BaseClass - Close the browser
+11:43:48.030 [main] INFO  factory.BaseClass - ============Scenario Ended============
+11:48:35.854 [main] INFO  factory.BaseClass - ============Scenario started============
+11:48:35.856 [main] INFO  factory.BaseClass - Launch the browser
+11:48:44.210 [main] INFO  factory.BaseClass - User is on the home page
+11:48:51.049 [main] INFO  factory.BaseClass - Close the browser
+11:48:51.049 [main] INFO  factory.BaseClass - ============Scenario Ended============
+11:48:51.283 [main] INFO  factory.BaseClass - ============Scenario started============
+11:48:51.283 [main] INFO  factory.BaseClass - Launch the browser
+11:49:05.408 [main] INFO  factory.BaseClass - ============Scenario started============
+11:49:05.410 [main] INFO  factory.BaseClass - Launch the browser
+11:49:22.799 [main] INFO  factory.BaseClass - User is on the home page
+11:49:29.653 [main] INFO  factory.BaseClass - Close the browser

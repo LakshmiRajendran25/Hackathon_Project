@@ -1,12 +1,12 @@
 Feature: Login Basic Functionality
 
-  @smoke @regression
+  @sanity @regression
   Scenario: Validating Login button
     Given the user is on the zigwheels home page
     When the user clicks on Login button
     Then the user redirected to Login/Register pop-up
 
-  @smoke @regression
+  @sanity @regression
   Scenario: Validating Google button
     Given the user opens zigwheels site
     And the user navigates to ZigWheels login page

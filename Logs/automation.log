@@ -1,5 +1,18 @@
-11:15:19.390 [main] INFO  factory.BaseClass - ============Scenario Ended============
-11:15:19.514 [main] INFO  factory.BaseClass - ============Scenario started============
-11:15:19.514 [main] INFO  factory.BaseClass - Launch the browser
-11:15:21.756 [main] INFO  factory.BaseClass - Close the browser
-11:15:21.756 [main] INFO  factory.BaseClass - ============Scenario Ended============
+11:49:29.653 [main] INFO  factory.BaseClass - ============Scenario Ended============
+11:49:29.854 [main] INFO  factory.BaseClass - ============Scenario started============
+11:49:29.854 [main] INFO  factory.BaseClass - Launch the browser
+11:49:40.632 [main] INFO  factory.BaseClass - User opens zigwheels site
+11:49:41.106 [main] INFO  factory.BaseClass - Click the Login button
+11:49:48.489 [main] INFO  factory.BaseClass - Close the browser
+11:49:48.489 [main] INFO  factory.BaseClass - ============Scenario Ended============
+11:49:48.790 [main] INFO  factory.BaseClass - ============Scenario started============
+11:49:48.790 [main] INFO  factory.BaseClass - Launch the browser
+11:50:12.365 [main] INFO  factory.BaseClass - Navigate to home page
+11:50:20.010 [main] INFO  factory.BaseClass - Able to see honda upcoming bikes under 4 lakhs
+11:50:21.171 [main] INFO  factory.BaseClass - Close the browser
+11:50:21.172 [main] INFO  factory.BaseClass - ============Scenario Ended============
+11:50:21.469 [main] INFO  factory.BaseClass - ============Scenario started============
+11:50:21.470 [main] INFO  factory.BaseClass - Launch the browser
+11:50:29.904 [main] INFO  factory.BaseClass - User is on the used cars page
+11:50:40.308 [main] INFO  factory.BaseClass - Close the browser
+11:50:40.308 [main] INFO  factory.BaseClass - ============Scenario Ended============
